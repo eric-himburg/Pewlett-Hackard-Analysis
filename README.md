@@ -8,7 +8,7 @@ Data from the corporation was originally kept in CSV files and read using EXCEL.
 * The majority of upcoming retirees have senior level positions.  
 A "retirement titles" table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955 was created.  A sample of the table can be seen in the image below.  Only the most recent title of current employees was included in the table.  In the sample of data shown, the majority of individuals have senior positions, e.g. "senior engineer".  
 
-![screenshot supporting major point](screenshots/unique_titles.png)
+![screen shot of the employee retirment table](Screenshots/unique_titles.png)
   
 * Major point 2  
 Explanation with supporting figure below
