@@ -35,7 +35,7 @@ In the next four years, it is anticipated that 72,458 positions will need to be 
 ![table of retirment jobs that will need to be filled for employees born 1956-1959](Screenshots/further_retiring_titles.png)
 
 ### Are there enough qualified, retirement-ready employees to mentor?
-In the next four years , there appears to be more than enough qualified, retirement ready employees who can mentor.  With approximately 25,000 senior engineers and 25,000 senior staff retiring, compared to a total of 1549 employees who were born in 1965, and most of which are already senior level associates.  To make the comparison more fair, the amount of potential mentorship-elibigle employees was expanded to a four-year range to match the retirement range used previously.  Specifically, a table of current employees and their job titles between January 1, 1965 to January 1, 1968 was created and can be seen below.  
+In the next four years , there appears to be more than enough qualified, retirement ready employees who can mentor.  With approximately 25,000 senior engineers and 25,000 senior staff retiring, compared to a total of 1549 employees who were born in 1965, and most of which are already senior level associates.  To make the comparison more fair, the amount of potential mentorship-elibigle employees was expanded to a four-year range to match the retirement range used previously.  Specifically, a table of current mid-career employees and their job titles between January 1, 1962 to December 31, 1965 was created and can be seen below.  
 
 ![screenshot supporting major point](folder/folder/file.png)
 
