@@ -39,7 +39,7 @@ In the next four years , there appears to be more than enough qualified, retirem
 
 ![table of mentorship-eligible individuals born from 1962-1965](Screenshots/further_mentorship_eligibilty.png)
 
-
+To further break down the potential mentorship-eligible pool of employees, the list above was grouped by job title to see the numbers of mid-career employees in each position.  The table below shows how they are grouped, with 
 
 
 
