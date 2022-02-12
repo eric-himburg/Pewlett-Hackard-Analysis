@@ -27,12 +27,12 @@ Explanation with supporting figure below
 ## Summary
 Overall, 
 
-###How many roles will need to be filled?
+### How many roles will need to be filled?
 Explanation with supporting figure below
 
 ![screenshot supporting major point](folder/folder/file.png)
 
-###Are there enough qualified, retirement-ready employees to mentor?
+### Are there enough qualified, retirement-ready employees to mentor?
 Explanation with supporting figure below
 
 ![screenshot supporting major point](folder/folder/file.png)
