@@ -1,9 +1,11 @@
 # Pewlett-Hackard-Analysis
 ## Overview of the Analysis
-Initially...    
+In order to ensure the seemless operation of a large corporation, the number of current employees retiring in the near future was determined.  Additionally, the future retirees were grouped by job title to see the amount of losses each position would incur, but also to determine how many potential retirees could act as mentors for younger company employees.  The number of employees who are eligible to participate in a mentorship program was also tabulated to see how many current employees would be availabe to fill the retirement positions.    
+
+Data from the corporation was originally kept in CSV files and read using EXCEL.  These CSV files were uploaded into a Postgres database, where the data was linked together and queried to generate an assortement of data tables.  As discussed below, database queries quickly determined the number of retirees, which ones would make suitable mentors, and the number of junior employees availabe to be mentored.
 
 ## Results
-After revising the data, a comparison of the initial and final data sets was performed to see how each of the seven school district metrics was affected.  Below is a bulleted summary of the changes.
+After revising the data...
 * Major point 1  
 Explanation with supporting figure below
 
