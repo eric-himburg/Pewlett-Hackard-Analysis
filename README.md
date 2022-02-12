@@ -11,7 +11,7 @@ A "retirement titles" table that holds all the titles of employees who were born
 ![screen shot of the employee retirment table](Screenshots/unique_titles.png)
   
 * Engineering and Staff positions have the most retirees.
-The most current titles of potentially retireeing individuals was grouped by name in order to determine the number and types of positions that will need to be filled.  The table below gives a breakdown from greatest to least amount of upcomong vacancies.  
+The most current titles of potentially retireeing individuals was grouped by name in order to determine the number and types of positions that will need to be filled.  The table below gives a breakdown from greatest to least amount of upcomong vacancies.  It can be anticipated that aroiund 36,000 engineers, 33,000 staff and 4,000 technique leaders positions will need to be filled due to retirement.   
 
 ![screenshot of jobs that will need to be filled by titles](Screenshots/retiring_titles.png)
 
