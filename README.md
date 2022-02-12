@@ -30,7 +30,7 @@ In the same table above showing a sampling of job titles for mid-career employee
 
 ## Summary
 ### How many roles will need to be filled?
-In the next four years, it is anticipated that 72,458 positions will need to be filled due to retirement.  This data is based upon current employees from 1952-55.  To see if the rate of retiring employees will extend past this date, another query was performed to see the potential retirees from employees born from 1956-1959.  The titles annd numbers of employees can be seen in the table below.  
+In the next four years, it is anticipated that 72,458 positions will need to be filled due to retirement.  This data is based upon current employees from 1952-55.  To see if the rate of retiring employees will extend past this date, another query was performed to see the potential retirees from employees born from 1956-1959.  The titles annd numbers of employees can be seen in the table below.  A quick observation shows the numbers of retirees born in 1956-1959 is very similar to the number of retirees born in 1952-1955, with a total of 73,910 positions needing to be filled.  Hence, the rate of retirement appears to be consistent over the next 8 years with an anticipated hiring rate of 9100 engineers per year, 8200 staff per year, and 950 technique leaders per year.  
 
 ![table of retirment jobs that will need to be filled for employees born 1956-1959](Screenshots/further_retiring_titles.png)
 
