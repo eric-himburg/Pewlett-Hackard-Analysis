@@ -2,7 +2,7 @@
 ## Overview of the Analysis
 In order to ensure the seemless operation of a large corporation, the number of current employees retiring in the near future was determined.  Additionally, the future retirees were grouped by job title to see the amount of losses each position would incur, but also to determine how many potential retirees could act as mentors for younger company employees.  The number of employees who are eligible to participate in a mentorship program was also tabulated to see how many current employees would be availabe to fill the retirement positions.    
 
-Data from the corporation was originally kept in CSV files and read using EXCEL.  These CSV files were uploaded into a Postgres database, where the data was linked together and queried to generate an assortement of data tables.  As discussed below, database queries quickly determined the number of retirees, which ones would make suitable mentors, and the number of junior employees availabe to be mentored.
+Data from the corporation was originally kept in CSV files and read using EXCEL.  These CSV files were uploaded into a Postgres database, where the data was linked together and queried to generate an assortement of data tables.  As discussed below, database queries quickly determined the number of retirees, which ones would make suitable mentors, and the number of mid-career employees availabe to be mentored.
 
 ## Results
 * The majority of upcoming retirees have senior level positions.  
@@ -15,15 +15,14 @@ The most current titles of potentially retireeing individuals was grouped by nam
 
 ![screenshot of jobs that will need to be filled by titles](Screenshots/retiring_titles.png)
 
-* A small number of junior level employees are available for the mentorship program. 
+* A small number of mid-career level employees are available for the mentorship program. 
 A mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965 was created.  A sample of data from the table can bee seen below.  Several of the individuals listed have titles of "engineer" or "staff", hence meaning they could possibly be mentored into a senior level position.      
 
 ![screenshot of mentorship-eligible individuals](Screenshots/mentorship_eligibilty.png)
 
-* Major point 4  
-Explanation with supporting figure below
+* Many mid-career employees already have senior positions 
+In the same table above showing a sampling of job titles for mid-career employees, it is evident that many of them already hold senior level positions.  Hence, there would be no need to mentor them.  Further analysis and an expansion of the pool of potential mentorship-eligible candidates should be performed.  
 
-![screenshot supporting major point](folder/folder/file.png)
 
 ## Summary
 Overall, 
