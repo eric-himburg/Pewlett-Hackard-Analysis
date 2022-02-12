@@ -43,7 +43,7 @@ To further break down the potential mentorship-eligible pool of employees, the l
 
 ![table of mid-career job titles from employees born from 1962-1965](Screenshots/midcareer_titles.png)
 
-
+To conclude, in the next four years approximately 50,000 total senior level employees will be retiring.  With proper mentorship, approximately half of these individuals can be replaced by mid-career employees ten years their junior.  
 
 
  
