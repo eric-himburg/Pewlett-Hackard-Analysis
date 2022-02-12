@@ -10,10 +10,10 @@ A "retirement titles" table that holds all the titles of employees who were born
 
 ![screen shot of the employee retirment table](Screenshots/unique_titles.png)
   
-* Major point 2  
-Explanation with supporting figure below
+* Engineering and Staff positions have the most retirees.
+The most current titles of potentially retireeing individuals was grouped by name in order to determine the number and types of positions that will need to be filled.  The table below gives a breakdown from greatest to least amount of upcomong vacancies.  
 
-![screenshot supporting major point](folder/folder/file.png)
+![screenshot of jobs that will need to be filled by titles](Screenshots/retiring_titles.png)
 
 * Major point 3  
 Explanation with supporting figure below
