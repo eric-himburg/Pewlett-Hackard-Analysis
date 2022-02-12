@@ -21,7 +21,7 @@ The most current titles of potentially retireeing individuals was grouped by nam
 
 A mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965 was created.  A sample of data from the table can bee seen below.  Several of the individuals listed have titles of "engineer" or "staff", hence meaning they could possibly be mentored into a senior level position.      
 
-![table of mentorship-eligible individuals](Screenshots/mentorship_eligibilty.png)
+![table of mentorship-eligible individuals born in 1965](Screenshots/mentorship_eligibilty.png)
 
 * Many mid-career employees already have senior positions 
 
@@ -35,9 +35,9 @@ In the next four years, it is anticipated that 72,458 positions will need to be 
 ![table of retirment jobs that will need to be filled for employees born 1956-1959](Screenshots/further_retiring_titles.png)
 
 ### Are there enough qualified, retirement-ready employees to mentor?
-In the next four years , there appears to be more than enough qualified, retirement ready employees who can mentor.  With approximately 25,000 senior engineers and 25,000 senior staff retiring, compared to a total of 1549 employees who were born in 1965, and most of which are already senior level associates.  To make the comparison more fair, the amount of potential mentorship-elibigle employees was expanded to a four-year range to match the retirement range used previously.  Specifically, a table of current mid-career employees and their job titles between January 1, 1962 to December 31, 1965 was created and can be seen below.  
+In the next four years , there appears to be more than enough qualified, retirement ready employees who can mentor.  With approximately 25,000 senior engineers and 25,000 senior staff retiring, compared to a total of 1549 employees who were born in 1965, and most of which are already senior level associates.  To make the comparison more fair, the amount of potential mentorship-elibigle employees was expanded to a four-year range to match the retirement range used previously.  Specifically, a table of current mid-career employees and their job titles between January 1, 1962 to December 31, 1965 was created and can be seen below.  It is similar to the one shown in the results section, with the difference being the birth dates range over four years and there are now a total of 56,859 potential employees that can be mentored into a senior level position.  
 
-![screenshot supporting major point](folder/folder/file.png)
+![table of mentorship-eligible individuals born from 1962-1965](Screenshots/further_mentorship_eligibilty.png)
 
 
 
