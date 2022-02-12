@@ -6,16 +6,19 @@ Data from the corporation was originally kept in CSV files and read using EXCEL.
 
 ## Results
 * The majority of upcoming retirees have senior level positions.  
+
 A "retirement titles" table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955 was created.  A sample of the table can be seen in the image below.  Only the most recent title of current employees was included in the table.  In the sample of data shown, the majority of individuals have senior positions, e.g. "senior engineer".  
 
 ![screen shot of the employee retirment table](Screenshots/unique_titles.png)
   
 * Engineering and Staff positions have the most retirees.
+
 The most current titles of potentially retireeing individuals was grouped by name in order to determine the number and types of positions that will need to be filled.  The table below gives a breakdown from greatest to least amount of upcomong vacancies.  It can be anticipated that aroiund 36,000 engineers, 33,000 staff and 4,000 technique leaders positions will need to be filled due to retirement.   
 
 ![screenshot of jobs that will need to be filled by titles](Screenshots/retiring_titles.png)
 
 * A small number of mid-career level employees are available for the mentorship program. 
+
 A mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965 was created.  A sample of data from the table can bee seen below.  Several of the individuals listed have titles of "engineer" or "staff", hence meaning they could possibly be mentored into a senior level position.      
 
 ![screenshot of mentorship-eligible individuals](Screenshots/mentorship_eligibilty.png)
