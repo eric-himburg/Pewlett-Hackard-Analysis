@@ -39,7 +39,7 @@ In the next four years , there appears to be more than enough qualified, retirem
 
 ![table of mentorship-eligible individuals born from 1962-1965](Screenshots/further_mentorship_eligibilty.png)
 
-To further break down the potential mentorship-eligible pool of employees, the list above was grouped by job title to see the numbers of mid-career employees in each position.  The table below shows how they are grouped, with 
+To further break down the potential mentorship-eligible pool of employees, the list above was grouped by job title to see the numbers of mid-career employees in each position.  The table below shows how they are grouped, with most being engineers.  With regards to mentorship, with the expanded mid-career employee group there are over 12,000 engineers and 12,000 staff members available to be mentored.  With approximately double the number of senior engineers and senior staff retiring, there are plenty of available mentors for these individuals.    
 
 ![table of mid-career job titles from employees born from 1962-1965](Screenshots/midcareer_titles.png)
 
