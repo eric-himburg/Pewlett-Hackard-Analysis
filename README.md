@@ -21,6 +21,7 @@ A mentorship-eligibility table that holds the current employees who were born be
 ![screenshot of mentorship-eligible individuals](Screenshots/mentorship_eligibilty.png)
 
 * Many mid-career employees already have senior positions 
+
 In the same table above showing a sampling of job titles for mid-career employees, it is evident that many of them already hold senior level positions.  Hence, there would be no need to mentor them.  Further analysis and an expansion of the pool of potential mentorship-eligible candidates should be performed.  
 
 
