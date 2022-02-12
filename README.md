@@ -29,10 +29,8 @@ In the same table above showing a sampling of job titles for mid-career employee
 
 
 ## Summary
-Overall, 
-
 ### How many roles will need to be filled?
-Explanation with supporting figure below
+In the next four years, it is anticipated that 72,458 positions will need to be filled due to retirement.  This data is based upon current employees from 1952-55.  To see if this large number of retiring employees will extend past this date, another query was performed to see the potential retirees from employees born from 1956-1959.  The titles annd numbers of employees can be seen in the table below.  
 
 ![screenshot supporting major point](folder/folder/file.png)
 
