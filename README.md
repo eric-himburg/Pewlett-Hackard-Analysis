@@ -15,10 +15,10 @@ The most current titles of potentially retireeing individuals was grouped by nam
 
 ![screenshot of jobs that will need to be filled by titles](Screenshots/retiring_titles.png)
 
-* Major point 3  
-Explanation with supporting figure below
+* A small number of junior level employees are available for the mentorship program. 
+A mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965 was created.  A sample of data from the table can bee seen below.  Several of the individuals listed have titles of "engineer" or "staff", hence meaning they could possibly be mentored into a senior level position.      
 
-![screenshot supporting major point](folder/folder/file.png)
+![screenshot of mentorship-eligible individuals](Screenshots/mentorship_eligibilty.png)
 
 * Major point 4  
 Explanation with supporting figure below
